@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "connect-mongo": "^4.6.0",
+    "cookie-parser": "^1.4.5",
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "express-flash": "^0.0.2",
+    "express-session": "^1.17.2",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.0.7",
+    "passport": "^0.5.0"
+  },
+  "name": "flipkart-backend",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "serve": "node sever.js",
+    "dev": "nodemon server.js"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^2.0.13"
+  }
+}

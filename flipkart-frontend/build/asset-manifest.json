@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.053bf888.chunk.css",
+    "main.js": "/static/js/main.606b1bab.chunk.js",
+    "main.js.map": "/static/js/main.606b1bab.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.6a2f3d88.js",
+    "runtime-main.js.map": "/static/js/runtime-main.6a2f3d88.js.map",
+    "static/css/2.ad5db7ce.chunk.css": "/static/css/2.ad5db7ce.chunk.css",
+    "static/js/2.4d020b6d.chunk.js": "/static/js/2.4d020b6d.chunk.js",
+    "static/js/2.4d020b6d.chunk.js.map": "/static/js/2.4d020b6d.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.ad5db7ce.chunk.css.map": "/static/css/2.ad5db7ce.chunk.css.map",
+    "static/css/main.053bf888.chunk.css.map": "/static/css/main.053bf888.chunk.css.map",
+    "static/js/2.4d020b6d.chunk.js.LICENSE.txt": "/static/js/2.4d020b6d.chunk.js.LICENSE.txt",
+    "static/media/Appliences.2ea933ca.png": "/static/media/Appliences.2ea933ca.png",
+    "static/media/Beardo.f7678c73.png": "/static/media/Beardo.f7678c73.png",
+    "static/media/BlendersPride.02499945.jpeg": "/static/media/BlendersPride.02499945.jpeg",
+    "static/media/Gift.1427422c.png": "/static/media/Gift.1427422c.png",
+    "static/media/Home.3a7e3cc7.png": "/static/media/Home.3a7e3cc7.png",
+    "static/media/Mobiles.e5a05229.png": "/static/media/Mobiles.e5a05229.png",
+    "static/media/Toys.342f59f0.png": "/static/media/Toys.342f59f0.png",
+    "static/media/Visa.69e7ec34.svg": "/static/media/Visa.69e7ec34.svg",
+    "static/media/beggining.6e7db88e.png": "/static/media/beggining.6e7db88e.png",
+    "static/media/electronics.f5093b79.png": "/static/media/electronics.f5093b79.png",
+    "static/media/fashion.d5dccef3.png": "/static/media/fashion.d5dccef3.png",
+    "static/media/flipkartwhite.baaaf7a4.png": "/static/media/flipkartwhite.baaaf7a4.png",
+    "static/media/grocery.63e3e752.png": "/static/media/grocery.63e3e752.png",
+    "static/media/plane.60fa3870.png": "/static/media/plane.60fa3870.png",
+    "static/media/realme.fa99ed51.jpg": "/static/media/realme.fa99ed51.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6a2f3d88.js",
+    "static/css/2.ad5db7ce.chunk.css",
+    "static/js/2.4d020b6d.chunk.js",
+    "static/css/main.053bf888.chunk.css",
+    "static/js/main.606b1bab.chunk.js"
+  ]
+}
